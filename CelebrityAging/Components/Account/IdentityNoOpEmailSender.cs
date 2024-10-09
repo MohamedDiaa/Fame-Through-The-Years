@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
-using Persistance.Data;
+using Persistance;
 
 namespace CelebrityAging.Components.Account;
 

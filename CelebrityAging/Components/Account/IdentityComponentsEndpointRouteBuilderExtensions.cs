@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Primitives;
 using CelebrityAging.Components.Account.Pages;
 using CelebrityAging.Components.Account.Pages.Manage;
-using Persistance.Data;
+using Persistance;
 
 namespace Microsoft.AspNetCore.Routing;
 

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Identity;
-using Persistance.Data;
+using Persistance;
 
 namespace CelebrityAging.Components.Account;
 
