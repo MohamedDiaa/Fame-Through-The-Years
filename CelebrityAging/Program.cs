@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using CelebrityAging.Components;
 using CelebrityAging.Components.Account;
-using CelebrityAging.Data;
+using Persistance.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
