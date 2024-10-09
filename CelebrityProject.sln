@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelebrityAging", "CelebrityAging\CelebrityAging.csproj", "{D93A2A5A-70F0-4C25-ABAD-351E31B39FC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance", "Persistance\Persistance.csproj", "{B18A5476-7EA1-45CC-A778-EBF022FBA534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D93A2A5A-70F0-4C25-ABAD-351E31B39FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93A2A5A-70F0-4C25-ABAD-351E31B39FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93A2A5A-70F0-4C25-ABAD-351E31B39FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18A5476-7EA1-45CC-A778-EBF022FBA534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18A5476-7EA1-45CC-A778-EBF022FBA534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18A5476-7EA1-45CC-A778-EBF022FBA534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18A5476-7EA1-45CC-A778-EBF022FBA534}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
