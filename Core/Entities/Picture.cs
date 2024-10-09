@@ -1,5 +1,4 @@
-namespace Core;
-
+namespace Core.Entities;
 public class Picture
 {
     public int Id {get; set;}
