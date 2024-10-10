@@ -5,6 +5,6 @@ public class Picture
     public DateOnly? CapturedDate {get; set;}
 
     public string PersonId {get; set;}
-    public Person person {get; set;}
+    public Person Person {get; set;}
 
 }
