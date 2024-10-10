@@ -6,10 +6,10 @@ namespace Persistance;
 
 public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : IdentityDbContext<ApplicationUser>(options)
 {
-    DbSet<Person> Person {get; set;}
-    DbSet<Country> Country {get; set;}
+    public DbSet<Person> Person {get; set;}
+    public DbSet<Country> Country {get; set;}
 
-    DbSet<Picture> picture {get; set;}
+    public DbSet<Picture> picture {get; set;}
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
