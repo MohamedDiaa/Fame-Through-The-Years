@@ -19,7 +19,10 @@ public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options
         builder.Entity<Person>( p =>
            {
              p.HasKey(p => p.Id);
-           
+
+             p.Property(e => e.Id).ValueGeneratedOnAdd();
+
+            
              p.HasMany(p => p.pictures)
              .WithOne(p => p.Person)
              .HasForeignKey( p => p.PersonId);
@@ -29,6 +32,25 @@ public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options
              .HasForeignKey(p => p.CountryId);
 
            });
+
+           builder.Entity<Country>( c => 
+           {
+            c.HasKey(c => c.Id);
+            c.Property(c => c.Id)
+            .ValueGeneratedOnAdd();
+            c.HasData(
+        new Country{
+              Id = 1,
+              Name = "Egypt"
+           },
+            new Country{
+             Id = 2,
+              Name = "China"
+           }
+            );
+            });
+           
+        
     }
 
 }

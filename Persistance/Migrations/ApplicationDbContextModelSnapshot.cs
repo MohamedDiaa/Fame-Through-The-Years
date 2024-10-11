@@ -37,11 +37,24 @@ namespace Persistance.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Country");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Egypt"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "China"
+                        });
                 });
 
             modelBuilder.Entity("Core.Entities.Person", b =>
                 {
                     b.Property<string>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<DateOnly>("BirthDate")
@@ -71,6 +84,10 @@ namespace Persistance.Migrations
 
                     b.Property<DateOnly?>("CapturedDate")
                         .HasColumnType("date");
+
+                    b.Property<string>("Link")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PersonId")
                         .IsRequired()
