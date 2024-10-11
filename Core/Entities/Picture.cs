@@ -1,4 +1,8 @@
+
+using System.ComponentModel.DataAnnotations;
+
 namespace Core.Entities;
+
 public class Picture
 {
     public int Id {get; set;}
@@ -6,5 +10,8 @@ public class Picture
 
     public string PersonId {get; set;}
     public Person Person {get; set;}
+
+    [Url]
+    public string Link {get; set;}
 
 }
