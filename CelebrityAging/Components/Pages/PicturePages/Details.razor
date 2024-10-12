@@ -1,0 +1,50 @@
+@page "/pictures/details"
+@using Microsoft.EntityFrameworkCore
+@using Core.Entities
+@inject IDbContextFactory<Persistance.ApplicationDbContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h2>Picture</h2>
+    <hr />
+    @if (picture is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">CapturedDate</dt>
+            <dd class="col-sm-10">@picture.CapturedDate</dd>
+            <dt class="col-sm-2">PersonId</dt>
+            <dd class="col-sm-10">@picture.PersonId</dd>
+            <dt class="col-sm-2">Link</dt>
+            <dd class="col-sm-10">@picture.Link</dd>
+        </dl>
+        <div>
+            <a href="@($"/pictures/edit?id={picture.Id}")">Edit</a> |
+            <a href="@($"/pictures")">Back to List</a>
+        </div>
+    }
+</div>
+
+@code {
+    private Picture? picture;
+
+    [SupplyParameterFromQuery]
+    private int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        picture = await context.picture.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (picture is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

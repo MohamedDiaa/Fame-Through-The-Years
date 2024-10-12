@@ -1,0 +1,38 @@
+@page "/pictures"
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using Core.Entities
+@using Persistance
+@implements IAsyncDisposable
+@inject IDbContextFactory<Persistance.ApplicationDbContext> DbFactory
+
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="pictures/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="context.picture">
+    <PropertyColumn Property="picture => picture.CapturedDate" />
+    <PropertyColumn Property="picture => picture.PersonId" />
+    <PropertyColumn Property="picture => picture.Link" />
+
+    <TemplateColumn Context="picture">
+        <a href="@($"pictures/edit?id={picture.Id}")">Edit</a> |
+        <a href="@($"pictures/details?id={picture.Id}")">Details</a> |
+        <a href="@($"pictures/delete?id={picture.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>
+
+@code {
+    private ApplicationDbContext context = default!;
+
+    protected override void OnInitialized()
+    {
+        context = DbFactory.CreateDbContext();
+    }
+
+    public async ValueTask DisposeAsync() => await context.DisposeAsync();
+}

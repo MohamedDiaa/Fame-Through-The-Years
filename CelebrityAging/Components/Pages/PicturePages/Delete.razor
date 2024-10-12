@@ -1,0 +1,63 @@
+@page "/pictures/delete"
+@using Microsoft.EntityFrameworkCore
+@using Core.Entities
+@inject IDbContextFactory<Persistance.ApplicationDbContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Delete</PageTitle>
+
+<h1>Delete</h1>
+
+<p>Are you sure you want to delete this?</p>
+<div>
+    <h2>Picture</h2>
+    <hr />
+    @if (picture is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">CapturedDate</dt>
+            <dd class="col-sm-10">@picture.CapturedDate</dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">PersonId</dt>
+            <dd class="col-sm-10">@picture.PersonId</dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">Link</dt>
+            <dd class="col-sm-10">@picture.Link</dd>
+        </dl>
+        <EditForm method="post" Model="picture" OnValidSubmit="DeletePicture" FormName="delete" Enhance>
+            <button type="submit" class="btn btn-danger" disabled="@(picture is null)">Delete</button> |
+            <a href="/pictures">Back to List</a>
+        </EditForm>
+    }
+</div>
+
+@code {
+    private Picture? picture;
+
+    [SupplyParameterFromQuery]
+    private int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        picture = await context.picture.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (picture is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    private async Task DeletePicture()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.picture.Remove(picture!);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/pictures");
+    }
+}
