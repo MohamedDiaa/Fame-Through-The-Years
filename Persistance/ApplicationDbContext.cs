@@ -38,16 +38,6 @@ public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options
             c.HasKey(c => c.Id);
             c.Property(c => c.Id)
             .ValueGeneratedOnAdd();
-            c.HasData(
-        new Country{
-              Id = 1,
-              Name = "Egypt"
-           },
-            new Country{
-             Id = 2,
-              Name = "China"
-           }
-            );
             });
            
         

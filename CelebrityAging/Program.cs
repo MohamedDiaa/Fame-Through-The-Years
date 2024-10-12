@@ -5,6 +5,7 @@ using CelebrityAging.Components;
 using CelebrityAging.Components.Account;
 using Persistance;
 using Microsoft.Extensions.Options;
+using CelebrityAging.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -55,6 +56,7 @@ else
     app.UseMigrationsEndPoint();
 }
 
+await app.SeedData();
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();

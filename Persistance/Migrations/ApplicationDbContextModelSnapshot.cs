@@ -30,6 +30,10 @@ namespace Persistance.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Code")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -37,18 +41,6 @@ namespace Persistance.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Country");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Name = "Egypt"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Name = "China"
-                        });
                 });
 
             modelBuilder.Entity("Core.Entities.Person", b =>
