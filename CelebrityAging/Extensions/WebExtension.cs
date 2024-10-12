@@ -9,7 +9,8 @@ namespace CelebrityAging.Extensions
     public static class WebExtension
     {
         
-        public static async Task SeedData(this WebApplication app) {
+        
+        public static async Task Seed(this WebApplication app) {
 
           using var scope = app.Services.CreateScope();
           var context = scope.ServiceProvider.GetService<ApplicationDbContext>();
