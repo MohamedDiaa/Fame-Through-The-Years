@@ -56,7 +56,7 @@ else
     app.UseMigrationsEndPoint();
 }
 
-//await app.Seed();
+await app.Seed();
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();

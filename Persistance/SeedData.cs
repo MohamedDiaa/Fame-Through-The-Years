@@ -26,7 +26,24 @@ namespace Persistance
               await context.SaveChangesAsync();
              }
              }
-        }
+
+             if(context.Person.IsNullOrEmpty())
+            {
+              using (StreamReader r = new StreamReader("../Persistance/assets/ActorsList.json"))
+                {
+                    string json = r.ReadToEnd();
+                    List<Person> ps = JsonConvert.DeserializeObject<List<Person>>(json);
+                    foreach(var p in ps)
+                     {
+                        p.CountryId = 241;
+                    }
+
+                    await context.AddRangeAsync(ps);
+                    await context.SaveChangesAsync();
+                }
+
+            }
+        } 
         
     }
 }
