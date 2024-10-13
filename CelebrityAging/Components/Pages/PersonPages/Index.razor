@@ -45,7 +45,17 @@
         context = DbFactory.CreateDbContext();
     }
 
-    private IQueryable<Person> filtered => context.Person.Where( p => p.Name.Contains(PersonName));
+    private IQueryable<Person> filtered { 
+        
+        get {
+            if(string.IsNullOrEmpty(PersonName)) {
+        
+                return context.Person;
+            } else {
+                return context.Person.Where( p => p.Name.Contains(PersonName));
+            }
+        }
+        }
 
 
     public async ValueTask DisposeAsync() => await context.DisposeAsync();

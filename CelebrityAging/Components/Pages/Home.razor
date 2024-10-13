@@ -1,7 +1,64 @@
 ﻿@page "/"
 
+@using Microsoft.EntityFrameworkCore
+@using Core.Entities
+@inject IDbContextFactory<Persistance.ApplicationDbContext> DbFactory
+@inject NavigationManager NavigationManager
+
+
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<div>
+ 
+    @if (person is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+    <h2>@person.Name</h2>
+    <hr />
+        <dl class="row">
+            <dt class="col-sm-2">Name</dt>
+            <dd class="col-sm-10">@person.Name</dd>
+            <dt class="col-sm-2">BirthDate</dt>
+            <dd class="col-sm-10">@person.BirthDate</dd>
+            <dt class="col-sm-2">CountryId</dt>
+            <dd class="col-sm-10">@person.CountryId</dd>
+        </dl>
+        <div style="display: flex;flex-direction: column; max-width: 500px;">
+           @foreach(var picture in person.pictures) 
+            {
+                <img src="@picture.Link">
+                <br>
+            }
+          </div>
+        <div>
+            <a href="@($"/people/edit?id={person.Id}")">Edit</a> |
+            <a href="@($"/people")">Back to List</a>
+        </div>
+    }
+</div>
 
-Welcome to your new app.
+@code {
+    private Person? person;
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+         Random rand = new Random();  
+    int skipper = rand.Next(0, context.Person.Count());  
+  
+        person = context  
+        .Person  
+        .OrderBy(product => Guid.NewGuid())
+        .Skip(skipper)  
+        .Take(1)  
+        .Include(p => p.pictures)
+        .ToList().First();  
+      
+        if (person is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}
