@@ -406,87 +406,173 @@
     },
     {
         "name": "Jordana Brewster",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1980-04-26",
+        "Gender": "Female",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpt2ptZAHNEfYWTfy6Q0ouq0MK_3NVhYVJ0g&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBlMqOPxQvmGDoiiwTQLrFpo18U5qEeDexg&s",
+            "https://m.media-amazon.com/images/M/MV5BMDc5ODk5NDEtMDc1Yy00NjNlLWJlZTAtZmUzZTk0ZGEzMWZiXkEyXkFqcGc@._V1_.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxtrxZb1HoKgptQa6m2ZBuWdEH_e9umfPlA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7ERuZvUeJqI59efMbfSIFhG1fq5Ne4kDzw&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSah7aaTeots8i_hBSdfEas_tTBthHhdKnZg8kSWcMJwLpXfpjh"
+        ]
     },
     {
         "name": "Ashley Benson",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1989-12-18",
+        "Gender": "Female",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvzb1V2dmtDP_Rl4jqbu_PvgS8qq2vG3QKw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYfQWvosvW7jkn42R72DJV_cUrKgRxrB9XQ&s",
+            "https://assets.teenvogue.com/photos/56a2b8567df8793e166ef75f/master/w_320%2Cc_limit/ashley-benson-beauty-evo03.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhtjRPVjObd_1vQel0KVNW0SQxjoK2x26Aw&s",
+            "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/317713_v9_bb.jpg",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbcA3T-eigVbomEY33SCXDiCEU6_KndWpJ6Lto0vFLrcQmy7gjNWU8rfgp2EuxtNrAiCeV53o1mHsMtsKkfD_KpiAtyUhZxlx670PraQ"
+        ]
     },
     {
         "name": "Charlize Theron",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1975-08-07",
+        "Gender": "Female",
+        "Pictures": [
+            "https://i.pinimg.com/736x/71/cd/0a/71cd0abec4e27185391fae110f721fc5.jpg",
+            "https://i.ytimg.com/vi/2pnYmcr6xIg/maxresdefault.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cxA3bQiizlo14oOIFX2sjilfNniuPFo0rg&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpxntKRqMn4cRD-SUnMCFB68voaCs0ICordgvjzpi3AxJQHrzxBE_7leulSMkl-fU4TSjupu5ySlohAWTCTXXVKnl--ux285ZkXUs7DQ",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMn5f6hbgYy5tParOmPDdyHNeXmZctf6F6Ktdkp-iN4lQm2So"
+        ]
     },
     {
         "name": "Rosamund Pike",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1979-01-27",
+        "Gender": "Female",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDI2Ee2ViMsJoBq1tYnX7H55jFlg2oW9cLpg&s",
+            "https://cdn.openart.ai/uploads/image_I1O-SGGE_1681364735115_512.webp",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl03bNZhPMgwoFlY28n3fcAR9aW-Ls42gMWA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGlufBn5uxZGJ908iM04GFRI7InDty4LpFguswXRK-JXKRWWw"
+        ]
     },
     {
         "name": "Christian Bale",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1974-01-30",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqep1u0K8XyCc-Z54eMdFH463jTqWcidbiA&s",
+            "https://i.pinimg.com/236x/68/92/88/689288b397b95a114aecbff1a0b471c3.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Ymo1cSZh3-6AgZhkYg23Holyz1FH9se1LA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtmd8fZgeZ9if1b1uH6aVnaOVa7wm6iNMfw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8ivQaP-FVi3vSonXyl80wSZb7XkeONDkaw&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDD_pkOJyMgGLIsebGQ8lAHr5S3hXrxUCCgP6T1hcZLmVJO5YjamO2ukijMLjJRWUlQlfsV08r2SNOdDQmPbvFRbdfy-arCFGxxDVkm-s",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQH4poc_SGwaWGBPjlgN_gu7qElrJIMkv_uE0oo85pAUJ9xH2hvxb-p-MVZpGuwQ1kWf9PhEnvADtqGy0c"
+        ]
     },
     {
         "name": "Jennifer Connelly",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1970-12-12",
+        "Gender": "Female",
+        "Pictures": [
+            "https://i.pinimg.com/474x/68/9d/7f/689d7f17896eebd7e7a346300e36a050.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpp_fnkJDh2ihk9djygZ3FwfhdhVHFdaBRw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpMQ07-dK2F6FmOS3n4zvajfF48P66cH_LQ&s",
+            "https://media.gettyimages.com/id/115402510/photo/jennifer-connelly-during-jennifer-connelly-visits-the-late-show-with-david-letterman-june-30.jpg?s=612x612&w=gi&k=20&c=4PyUZHK_6TvWae5JZYyMJT_DmaXM1Z1cTNv1DGdi8SU=",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPnorYiYYndk3JMIYi3YLstskPHy83oxI9J-mtgMqz2LVocb7f"
+        ]
     },
     {
         "name": "Adam Sandler",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1966-09-09",
+        "Gender": "Male",
+        "Pictures": [
+            "https://preview.redd.it/a-young-adam-sandler-at-17-years-old-c-1983-v0-mxmdvoruejnb1.jpeg?width=1170&format=pjpg&auto=webp&s=1df743a417a324ab066fd9a19cf751608b3ab76f",
+            "https://i.pinimg.com/originals/03/18/73/0318735b9291e7751f62653ead5e42c8.jpg", 
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlwXSM-ySzE8jGx0Q7uo45vOd21_vMKQRxA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8O9guCGSY0cOEr2qXxqnjvI8Wj9Kj9ydeLg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJwMz3Ouf9Bg_rDomvYBxAosh2m0QjgEr7LxWdbjqM0YPYBntZTqorM2ySMV7upqQCDpQOmpzgGI_3Aw7569bMKwdf44uPLQ6u1jpig",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR4KaWnMVz5W0oI8ddASXtkEIqwzorqHVp2WDZZwvdgJrN0J7HaaYseAecNp738RpJ0KMGdyWZMaG8eW5i_FZnY3nQdZWDoaEwy86JbIYG9JcGENuZUhV7jGC9NryiJLLwd73xgS06CWw"
+        ]
     },
     {
         "name": "Paul Walker",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1973-09-12",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIXy7eBHjkSBlvDtE3n8WfH0bObdZNTySrg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPApENSCdo7yUWro919fqlmTN9hdGgyZV6sQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToWmnT0xCpDblNZ_wSXkGJHvH6anTlnAZnIg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6vS6Jx48mvEqiCgIaFI31ic6f3vD8Rb9Zw&s",
+            "https://i.pinimg.com/474x/5d/5e/d1/5d5ed1cf85a035707e3838f7ebc42fd1.jpg",  
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgEOqF9piQsw1LTugP74CMqV4K3fd9tnUgHGtrBh4WwTJJplnLor6I2rW4Tgn6-TpTRHpsLW53t6u9rNjKkgYGgKKlkfM23H1f-LX_UA",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs5tfuaKVaNafDKofPp8Pgt3q9QWO14a6nrW9kgE5LtIGXtv6nvsASIzL_ruqpz3lcxDKxrkEOt3GhyUTJmvGtpyo0LyfsgPJ9w0bPnOk"
+        ]
     },
     {
         "name": "Brad Pitt",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1963-12-18",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SfZ0UTmBQLEgoCTl5tBMl53VcNvrHH2NZg&s",
+            "https://i.pinimg.com/474x/6a/1e/c4/6a1ec49de6d2d212288dc9688c6bfa07.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREuw5YP3lfaDtlWHAYcEngKD1jdYXtixul5A&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9eEHj_JNohp-6IWf8OdQzRmJ5Kqp5E1bJ-Q&s",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2Z6AsI1DnZpzuwg06JAik3vgxe4TcxOg0H67uiIrpT6tXEchtWLfqLeHY0NyLXwmSCM&usqp=CAU",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnddi1pfo09H5afjNVz5Td2VDvnLDrN1xR19m0gu88ctAJwZwBVKCPQQidzld76JKyKQ7sPI_jK8RUI8iEuHErE7NFrYQr516RR57Fqw",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTGt-ubbZYSorJ3L58tl46mOxNyxY0FrmRmofgkGrXiua1cm43qkSuCmy0h_l2Mw-MFNonSy6rEJ7MSdGIOtQLjww0m8GXqI7_UaxFgScj5wBC8Xrm1lv8SxIBFCh7_Ub7uq02fCBhi"
+        ]
     },
     {
         "name": "Amy Adams",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1974-08-20",
+        "Gender": "Female",
+        "Pictures": [
+                "https://i.pinimg.com/474x/52/e7/6a/52e76a0c430acfced255267505d77871.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkkF8HmsSuyL24_6pjX3edcFh55x1gpHXgQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96Z1-4caJfRRsOFcDOdV9ppMKM5bBDD4yDQ&s",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTNiAPJ72gT3VzzevQla-k1yAuw9OC8qBqA1mrD91pKHuDF9WicVWYARBJmsNPl9-iMziZkZl2qB6SLs83JijtZoyGftN_4Q5DNKB7Z4DzKRQGk0uUEy8qfndSJwn4E1FJuiZmybIqv_A"
+        ]
     },
     {
         "name": "Milla Jovovich",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1975-12-17",
+        "Gender": "Female",
+        "Pictures": [
+            "https://media.gettyimages.com/id/542622060/photo/young-actress-and-fashion-model-milla-jovovich-at-the-age-of-twelve-wearing-a-plaid-shirt-and.jpg?s=612x612&w=gi&k=20&c=9xihtcbmVM7UU7JTkecQcdqPFEpcUle9GyNmhVr8Yas=",
+            "https://media.gettyimages.com/id/525591650/photo/milla-jovovich.jpg?s=612x612&w=gi&k=20&c=UmC-77qIzXm912CwdqllK_sarG_bLOlQxCZholrQTLc=",
+            "https://i.pinimg.com/236x/dc/db/9c/dcdb9cc0e36562c926b9ad1d0a87052b.jpg",
+           "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3wadVecgJqzA_8xLxTGdkynHeqzuPu3oPxLs3buTnfyyMOuqr"
+        ]
     },
     {
         "name": "Chris Evans",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1981-06-13",
+        "Gender": "Male",
+        "Pictures": [
+            "https://i.redd.it/some-pics-of-chris-evans-as-a-kid-v0-776zlbmt12tc1.jpg?width=661&format=pjpg&auto=webp&s=1a403411aa477ea3abaee447ee12afeabc42906c",
+            "https://i.pinimg.com/236x/2b/74/08/2b7408a7dfe8207c3f91fef868ac8e57.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplT5pXlf2HJRgnSDn9Q7Lbw2W5tVxq4qS-1Co_s49mnL1IVTS"
+        ]
     },
     {
         "name": "Amber Heard",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1986-04-22",
+        "Gender": "Female",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Umi0J_bjwr4OMMBorgtJliDE0MwzSA8i7g&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1mEWNAc5IyAh7HjtLShwhd47bvW-roAfbA&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSViYH-9dokJdkfcBS9KM31MksDKzu7WT-8fXcJAjpM3TVyPbVSf1GShdZCMB1GG1DykkMZmmCpMDJZ5pmNEJI1NaYi-XWchugZRdsDnq8",
+            "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQHwPUugA3L07hFLjd89t8n7GTQdajN5XeSR8fHVwMIZ7QIJZHPuBazceq-kOfJZ2J6XcSisgOdHiUGw74"
+        ]
     },
     {
         "name": "Edward Norton",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1969-08-18",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmZpN4n7voL5xKl4lRdLeGfI9fHWIkKotelJk6dxRgecJhcZF-s6FHm2xyo1JvurdT44&usqp=CAU",
+            "https://i.pinimg.com/736x/89/49/03/894903d149806c1c5a80fc736043699c.jpg",
+            "https://i.redd.it/xbwk4fbb91x11.jpg",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQmZQBuAKA2CYdqo68bNaNPrYpLgAlfeL9lbV_5IEcdHgGhmcax_rml3vQ3lyUPaicSWIam7XQNCrZvLsALlCQDawjunkJ_1-e4Gw6Z1B94QC-jHmbjf9Go68Q2vQr9SChtxM5aM_zPGQ"
+        ]
     },
     {
         "name": "Julianne Moore",
