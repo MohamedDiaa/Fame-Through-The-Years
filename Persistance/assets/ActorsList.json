@@ -576,117 +576,219 @@
     },
     {
         "name": "Julianne Moore",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1960-12-03",
+        "Gender": "Female",
+        "Pictures": [
+            "https://i.pinimg.com/originals/c7/d4/7c/c7d47c22c960b0d95171de262c91e298.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWQ0au98zTY6peHAzYKtW8oaKjH0oSjOF9A&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrt1_iyLq4zy2L6KRkDcQrE3OWT9MlOGVOQ&s",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSeT1n060f_qC40kmUejnHLrpxcZbLT2fWJw91rJV58vl2lPeF-sh-x4dJHlrGCq95FBS7VuK1iz4y_lv111PzE7xhVvcJtfiAznSQrSspNh90zI-BBokQ-qWygeXRhN78cXCZzvwR3"
+        ]
     },
     {
         "name": "Carice van Houten",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1976-09-05",
+        "Gender": "Female",
+        "Pictures": [
+            "https://pbs.twimg.com/media/ERElBhFWsAAgZJv.jpg",
+            "https://pbs.twimg.com/media/ERElBgcWsAA6Yyk.jpg",
+            "https://pbs.twimg.com/media/ERElBgWW4AEu65r.jpg",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf9-4ez6_YZ7_QI5UQVLtzN7R10o1G02R7PRhLKrY6Efn6YVB5"
+        ]
     },
     {
         "name": "Evangeline Lilly",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1979-08-03",
+        "Gender": "Female",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1d-M1BKi_KG4fkQaDfJ7i7DlZGjC7WZKGw&s",
+            "https://i.pinimg.com/736x/08/14/30/081430f34893accba456fa35d98bb54b.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65kbBgRdh4ds6BuHZS3PuI9qS-WnjftL-Dg&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_9XZhTdEi03j44vPvbBdgu8o5E-48X8DwJTkG5DRMCECpyzLq"
+        ]
     },
     {
         "name": "Michelle Monaghan",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1976-03-23",
+        "Gender": "Female",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMylC6wJjUZFcsLVYegTwt7yt_CGO64C3MHw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOJGtibTSThyHUzOtFbvNKDCkT6qP3HS5VA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxW7ZhF36RLdV-Yq6LFS0307T3FRQA_GosQQ&s",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTujMfmaxRNXHHQVspVzlos5HpsGiEmpIGme1zZhP6vRQVTbb9lgnkP4ji_IgP0jFWFS-UneYP1xC4IKes"
+        ]
     },
     {
         "name": "Forest Whitaker",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1961-07-15",
+        "Gender": "Male",
+        "Pictures": [
+            "https://i.pinimg.com/236x/8a/b6/2b/8ab62be905b8bd3a894f4947476995b5.jpg",
+            "https://images.prismic.io/netflix-queue/5c7e1ce3-90ca-4bce-b5eb-eed6bd350188_forest-whitaker-salutes-the-ghosts-of-christmases-past-fast-times-at-ridgemont-high.jpeg?auto=compress,format&rect=0,0,1080,1080&w=2000&h=2000",
+            "https://m.media-amazon.com/images/M/MV5BMDU2ZGE1ZjctZjQ2NS00ODgyLTk1MDktNzEzODIxZmFhYmYxXkEyXkFqcGc@._V1_.jpg",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJGhv5-vcuQ7gLLTtk8m9FjJst_0NJePO1AuJsWu-u1PEkchpO"
+        ]
     },
     {
         "name": "Ben Stiller",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1965-11-30",
+        "Gender": "Male",
+        "Pictures": [
+            "https://cdn.openart.ai/stable_diffusion/d66ba4fb553d4178351e5a49d0ce0acd3395aac0_2000x2000.webp",
+            "https://c.cmcdn.com/d/V/R/R/1416418755362.png",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-ucON-CFv4UI5A5nHywjU49xcWTMp8y8Mg&s",
+            "https://i.pinimg.com/originals/af/25/7a/af257a0939baaae6fdfb3a9432e99cf1.jpg",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM1CTJwXOmo-1ez9Yw793sblpNx3cXyt3rn7ePB6TP2SlnNp48"
+        ]
     },
     {
         "name": "Carla Gugino",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1971-08-29",
+        "Gender": "Female",
+        "Pictures": [
+            "https://pbs.twimg.com/media/Ca9AGSTWIAAfCWi.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIdcQB_WatUa5yn7ZZW1XMUTSL1xL1vWaBQ&s",
+            "https://m.media-amazon.com/images/M/MV5BNzQyNTgzOTI2OF5BMl5BanBnXkFtZTgwNTMyMDk0NjE@._V1_.jpg",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSgxEIOZ-t_C6DUWlWIGjYFz-jlf1hT3IPLcg2P7ySoLso9hMkgsATpC37_ma-87pgff6msWSHGXUtJ6MaEnolmP7pUvwp8bSVINVPy6638Yl86dlOFAiLn4meFGq-8z9rLwAFEivHyNA"
+        ]
     },
     {
         "name": "Liam Neeson",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1952-06-07",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJHddIoNmA7gqSeSwb1hfYWH2oU6bb34YJw&s",
+            "https://imgix.ranker.com/user_node_img/50040/1000795483/original/young-liam-neeson-in-white-buttondown-black-and-white-photo-u2?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=355",
+            "https://imgix.ranker.com/user_node_img/50040/1000795485/original/young-liam-neeson-in-black-leather-jacket-closeup-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=355",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQtFXAIw2NO8O2AWVgpts5oS7loN2QKU74xtdxfpcoWmdMtcsQZy9wzN57bwkorP6ZO-THmn0oEIstIKII"
+        ]
     },
     {
         "name": "Eric Roberts",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1956-04-18",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyosS0huyuuIC7GiQZ7QkE3Y8yaJMO3YtEA&s",
+            "https://m.media-amazon.com/images/I/6120jEW2jYL._AC_UF894,1000_QL80_.jpg",
+            "https://m.media-amazon.com/images/M/MV5BOGQwM2RiNzMtYjQ2Mi00YzJiLTlkOWUtOTI1MzBkY2YxNjg5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeYQBAsxnwiQ3beJkwm9xzti-LsShiqPb5MT4M5LNzki6nZa1_3DkXXBScLctskIXBv1QlVujl-B3pZM3FzArEFwQL8SUXvrBDuWEw_uA"
+        ]
     },
     {
         "name": "Sammo Hung",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1952-01-07",
+        "Gender": "Male",
+        "Pictures": [
+            "https://i.pinimg.com/originals/f3/17/5e/f3175ec8631558054c52a579efe797f7.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOQrcTN-BTt4EyYXmJ0jwyKW6eQm5MFfjOg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCb3ppLFSVaTTqbmFFTcMqijfqA9akaeLIFw&s",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sammo_Hung_20240414.jpg/220px-Sammo_Hung_20240414.jpg"
+        ]
     },
     {
         "name": "Sigourney Weaver",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1949-10-08",
+        "Gender": "Female",
+        "Pictures": [
+            "https://i.pinimg.com/474x/82/7c/fa/827cfa7cdd4791075f0fa454f8369531.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNw_i0sKPZSjrrnRyjqGb52AMdk7FpwqNK1A&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_cpzya6VHO2Bvh-z1UDhU5u5rG9tySjoJDA&s",
+            "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sigourney_Weaver-64139_%28cropped%29.jpg"
+        ]
     },
     {
         "name": "Sylvester Stallone",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1946-06-06",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxliasI9W3vw9Jsb8G2ipDyhZIb5kDaJOyw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVD4U963yNoJ5806hK5YNuIgHMy3uDod3wTA&s",
+            "https://i.pinimg.com/236x/a5/86/56/a58656a2079c24c3f94789831e992089.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXgVWTic6BDXbivHA6MXvxTyyLastVTD5KcnRyKgxv7I4heU77nSQq2uADeGZlVts6o4&usqp=CAU",
+            "https://i.ytimg.com/vi/dFlybZL1mWE/maxresdefault.jpg",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRivyR2sR5EaPupj_e7BQkMVk23vkyK0OLXzxmAGfOd-e_sPNUHGriLgBlJ0A06n_MJ4KG7loUYQXLOPUY-ZHBwGlES33FArGV6bubR1Z8"
+        ]
     },
     {
         "name": "Helen Mirren",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1945-07-26",
+        "Gender": "Female",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wL2FMoN56Os-CWeQcQvILTX3tvcN80PdRQ&s",
+            "https://i.pinimg.com/474x/66/09/3e/66093e37aef7476625bcdf39607d5df6.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3oewUWqSJBuY7heC8BBThq-FN9aHQo0IO6_xJFnfhNblRpd0",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFn9e71p-hCw8CX795zKJ6pq3pI1A7q2IgoFDr6CYUS1NJGZ2-O448yCK2H2AT8rjRrCF6BJqPUVXB5FhfFZLQGWBnRN4E5PMhAMJ20o"
+        ]
     },
     {
         "name": "Chris Pratt",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1979-06-21",
+        "Gender": "Male",
+        "Pictures": [
+            "https://i.pinimg.com/736x/8a/c6/10/8ac610ed491818f5d258b0fee0aed7e6.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMprLVK2E7Mwk-EQRCXxGQcnAhCWlCsosug&s",
+            "https://i.pinimg.com/originals/e0/02/a1/e002a1536b182c59851064eb4527b2b3.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bE2v4U55HrVndV8JnlvRM0KKGzddkKgHKg&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrDJ9dAIunX54JBKTfew_bUoJVGy8OB3ub1OuF7cXYHkWFejCl"
+        ]
     },
     {
         "name": "Jude Law",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1972-12-29",
+        "Gender": "Male",
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyS68x4Mntcw_jRHsXMZWQcXmusduH9pDE0g&s",
+            "https://i.ytimg.com/vi/mmmzdFFJgZ0/hqdefault.jpg",
+            "https://imgix.ranker.com/user_node_img/50041/1000806226/original/young-jude-law-in-white-t-shirt-and-coat-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=355",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQA4tX0FkWsWiPeHaTRr5YN5z8ih0Ty2P3rU-WzIPX0dafzzdrImEtApbOsmy2F_0QAmWvD5jMKzO0NpuY"
+        ]
     },
     {
         "name": "Katherine Heigl",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1987-11-24",
+        "Gender": "Female",
+        "Pictures": [
+            "https://pbs.twimg.com/media/BWzLY85CEAEZOaN.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2pIiNJwr_5WsHc1lnXunX0vWvloFcrm-eg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_pS9-brCcHhLs-R4_s4fxI2KFCJDB7djDg&s",
+            "https://media.glamour.com/photos/65a5cff7a732012be8e04f99/master/w_2560%2Cc_limit/1936001738",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZW1uRJJ2RAZ91WNA0i4jRnNtrrOd3WJ7pEYXKaWMtiA9ChaJl"
+        ]
     },
     {
         "name": "Matthew McConaughey",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1969-11-04",
+        "Gender": "Male",
+        "Pictures": [
+            "https://wl-brightside.cf.tsp.li/resize/728x/jpg/124/361/932adf5020a015e762200055be.jpg",
+            "https://cdn.txculturaltrust.org/content/uploads/2020/04/2019-MatthewMcConaughey-honoree.jpg",
+            "https://i.redd.it/young-matthew-mcconaughey-was-something-special-v0-6vyzd929fctc1.jpg?width=735&format=pjpg&auto=webp&s=5c271549a47433677dfde60ce78f8eac1fe23ded",
+            "https://preview.redd.it/young-matthew-mcconaughey-was-something-special-v0-1df8mmvqectc1.jpg?width=640&crop=smart&auto=webp&s=83d1fe81ce075c55ed4c2aca5142c793d04f35b6",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkSTOPHfpckbifjYyPstvE3nelzUnoTfWWKz48EPS10A7GIlA5"
+        ]
     },
     {
         "name": "Jodi Lyn O'Keefe",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1978-10-10",
+        "Gender": "Female",
+        "Pictures": [
+            "https://i.pinimg.com/originals/bc/e7/47/bce7472c298d7dc7ac3f48751dab6599.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecTYpd-q7ndzSC9np-8VTyqqbn93dnzBfwg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOgarOULfynVIuIyJHHeZmCPL44XSYiZkhlYlxEWJYQ66kViZCj3XqTk85ER--D51KeV2KTnhq8mB2P8nwhuq4iJu2NrTxWPVxh2ri7Zs",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8lIGvp2q0gqvY-Lr8yJuMBfb2gmDUYdmIbsdbv8Qa0d7Bg_Wk"
+        ]
     },
     {
         "name": "Richard Gere",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
+        "Birthday": "1949-08-31",
+        "Gender": "Male",
+        "Pictures": [
+            "https://i.pinimg.com/originals/8f/6e/1f/8f6e1f5bc2b7ba09f5955f3b5c891eed.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2TBd3OtKtAuC-CKydxW5CLPixWeQFfypEA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5bvu0IWw6hH7wZ0-5K8lIdbPoGZ_5ZYBsQQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dtFaGHM6d3zXeGS9j_iyBgFW0Yrj-dML6A&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzMB1SRSx7AWAvX-wZnxcsXbZ6IThvUEKNE0Mv4t1c3uY_FBd3ziGunv8A8bbJyo7jnTAOiHsNQfuvJICPg1IP_ReEmKvS6bsrkJ2N-Q"
+        ]
     },
     {
         "name": "Jeremy Renner",
