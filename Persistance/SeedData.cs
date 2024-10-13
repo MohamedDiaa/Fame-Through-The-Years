@@ -13,37 +13,72 @@ namespace Persistance
     public static class SeedData
     {
 
-        public static async Task FillData(ApplicationDbContext context) {
+        public static async Task FillData(ApplicationDbContext context)
+        {
 
-           if(context.Country.IsNullOrEmpty()) 
-           {
-           using (StreamReader r = new StreamReader("../Persistance/assets/CountriesList.json"))
-           {
-              string json = r.ReadToEnd();
-              List<Country> cs = JsonConvert.DeserializeObject<List<Country>>(json);
-
-              await context.AddRangeAsync(cs);
-              await context.SaveChangesAsync();
-             }
-             }
-
-             if(context.Person.IsNullOrEmpty())
+            if (context.Country.IsNullOrEmpty())
             {
-              using (StreamReader r = new StreamReader("../Persistance/assets/ActorsList.json"))
+                using (StreamReader r = new StreamReader("../Persistance/assets/CountriesList.json"))
                 {
                     string json = r.ReadToEnd();
-                    List<Person> ps = JsonConvert.DeserializeObject<List<Person>>(json);
-                    foreach(var p in ps)
-                     {
-                        p.CountryId = 241;
+                    List<Country> cs = JsonConvert.DeserializeObject<List<Country>>(json);
+
+                    await context.AddRangeAsync(cs);
+                    await context.SaveChangesAsync();
+                }
+            }
+
+            if (context.Person.IsNullOrEmpty())
+            {
+                using (StreamReader r = new StreamReader("../Persistance/assets/ActorsList.json"))
+                {
+                    string json = r.ReadToEnd();
+                    List<PersonJSONObject> ps = JsonConvert.DeserializeObject<List<PersonJSONObject>>(json);
+                    List<Person> personList = new();
+
+                    foreach (var p in ps)
+                    {
+                        personList.Add(new Person
+                        {
+                            Name = p.Name,
+                            BirthDate = p.Birthday,
+                            Gender = p.Gender,
+                            pictures = p.GetPictures(),
+                            CountryId = 241
+                        });
+
                     }
 
-                    await context.AddRangeAsync(ps);
+                    await context.AddRangeAsync(personList);
                     await context.SaveChangesAsync();
                 }
 
             }
-        } 
-        
+        }
+
+    }
+}
+
+class PersonJSONObject
+{
+
+    public string Name { get; set; }
+    public string? Birthday { get; set; }
+    public string Gender { get; set; }
+    public List<string> Pictures { get; set; }
+
+    public List<Picture> GetPictures()
+    {
+        List<Picture> pics = new();
+        foreach (var item in Pictures)
+        {
+            pics.Add(
+            new Picture
+            {
+                Link = item
+            }
+            );
+        }
+        return pics;
     }
 }
