@@ -1,10 +1,9 @@
 @page "/people"
-@using Microsoft.EntityFrameworkCore
-@using Microsoft.AspNetCore.Components.QuickGrid
-@using Core.Entities
-@using Persistance
+
 @implements IAsyncDisposable
 @inject IDbContextFactory<Persistance.ApplicationDbContext> DbFactory
+
+@rendermode InteractiveServer
 
 <PageTitle>Index</PageTitle>
 
@@ -13,12 +12,20 @@
 <p>
     <a href="people/create">Create New</a>
 </p>
+<p>
+   
+    <label for="search"> Search: </label>
+    <input type="search" @bind="@PersonName" @bind:event="oninput" placeholder="Search" />
 
-<QuickGrid Class="table" Items="context.Person">
-    <PropertyColumn Property="person => person.Name" />
-    <PropertyColumn Property="person => person.BirthDate" />
-    <PropertyColumn Property="person => person.CountryId" />
+</p>
 
+<QuickGrid Class="table" Items="filtered" Pagination="pagination">
+    <PropertyColumn Property="person => person.Name" Sortable="true" />
+    <PropertyColumn Property="person => person.BirthDate"  />
+    <!-- Creates errorr with search
+    <PropertyColumn Property="person => context.Country.FirstOrDefault(c => c.Id == person.CountryId).Name"  title="Country"/>
+    -->
+  
     <TemplateColumn Context="person">
         <a href="@($"people/edit?id={person.Id}")">Edit</a> |
         <a href="@($"people/details?id={person.Id}")">Details</a> |
@@ -26,7 +33,11 @@
     </TemplateColumn>
 </QuickGrid>
 
+<Paginator State="pagination" />
+
 @code {
+
+    private string PersonName {get; set;}
     private ApplicationDbContext context = default!;
 
     protected override void OnInitialized()
@@ -34,5 +45,10 @@
         context = DbFactory.CreateDbContext();
     }
 
+    private IQueryable<Person> filtered => context.Person.Where( p => p.Name.Contains(PersonName));
+
+
     public async ValueTask DisposeAsync() => await context.DisposeAsync();
+
+    PaginationState pagination = new PaginationState { ItemsPerPage = 10} ;
 }
