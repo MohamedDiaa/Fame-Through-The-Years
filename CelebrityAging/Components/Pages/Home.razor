@@ -20,10 +20,12 @@
         <dl class="row">
             <dt class="col-sm-2">Name</dt>
             <dd class="col-sm-10">@person.Name</dd>
-            <dt class="col-sm-2">BirthDate</dt>
+            <dt class="col-sm-2">Born</dt>
             <dd class="col-sm-10">@person.BirthDate</dd>
+            <!--
             <dt class="col-sm-2">CountryId</dt>
             <dd class="col-sm-10">@person.CountryId</dd>
+            -->
         </dl>
         <div style="display: flex;flex-direction: column; max-width: 500px;">
            @foreach(var picture in person.pictures) 
@@ -31,11 +33,7 @@
                 <img src="@picture.Link">
                 <br>
             }
-          </div>
-        <div>
-            <a href="@($"/people/edit?id={person.Id}")">Edit</a> |
-            <a href="@($"/people")">Back to List</a>
-        </div>
+          </div> 
     }
 </div>
 
