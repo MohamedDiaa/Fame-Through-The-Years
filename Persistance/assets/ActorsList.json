@@ -3294,7 +3294,6 @@
         "Birthday": "1971-07-21",
         "Gender": "Female",
         "Pictures": [
-
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPr4SXjQe5bnHXMhzMNEOivsHaggZwaXnBrQ&s",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYjl44yJsd-hOsz3bhu8WUXCMMPI65UR39g&s",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJk9bhD8Sk3cCtV0zR_Od5u81596SQdFjdnw&s",
@@ -3338,351 +3337,593 @@
         "name": "Cliff Curtis",
         "Birthday": "1968-07-27",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyH2515j-AdxQuzWJwnWUL0SzUaM46B0PBew&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75_dPrLIMi-srmvrlzSmebtOZXovrPrTkPg&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRVzxRn5gcLgz1rTwv8mAHMyi3-G_eLdQibFAJXSAgig7YQicQ"
+        ]
     },
     {
         "name": "Cara Delevingne",
         "Birthday": "1992-08-12",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLKZXWFBjpxyb3Hm8AYHwz90bekDywhszrw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNG6iGrM0nwqJLNdh8W-7diJAKo-0hfKzvg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89NUuM_See_1Aj9l4F73WQND7ktQNHFVeGw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7dW4O4yne74q0Ey9g4QPgJj37gqCwyDKkMw&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLFt1mZBbf7Xq3q5oLu8ywG5zW5aQJYHXVWLvgI1dSoqZ8jxpuUkmrxkp_oSWF7N0GODxwG6TRaA2D1Td72OaU-M2x2VMlPeD2QliQxN8"
+        ]
     },
     {
         "name": "James Gandolfini",
         "Birthday": "1961-09-18",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://i.dailymail.co.uk/i/pix/2013/06/20/article-2345094-1A696E0F000005DC-882_306x410.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fQXrirt8prB1lk8rAg5dRkH3Dxmn7mm59A&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBCE6ziLdDbXk_CROisPQZ1G3YMG5uh_9xvWQVIRAWJab4qMxp"
+        ]
     },
     {
         "name": "Ida Lupino",
         "Birthday": "1918-02-04",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbEaCoyW5YvM_5pCQqvpgfV7lJLDHjcpadw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-P3IGHLdqE7t7v8FHCThjRgOnlb4LWidPg&s"
+        ]
     },
     {
         "name": "Patrick Wilson",
         "Birthday": "1973-07-03",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhjo0WWPpSlpWbzy26cDzDU_WssOEcFtJFA&s",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQoEK9AYt6IRZZe3hZD-Lb7FlW2rLhH4Ez_d0ZCAdYX6r4QT5LqMHlZSlTStYwVaDNEwP-yI0cEu14rehd-3GVFOpopJHZESDIql_TObF0ktrSeF3Lx9sFBpeZjTmf-sY8RUmKmYjpx9Q"
+        ]
     },
     {
         "name": "Mel Gibson",
         "Birthday": "1956-01-03",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtV568O0_98fJkVz_tR4_XpLeNcn5ZDhL7gyO9CEpttlJQNDi_gy06xdCqZsQzLkaWhCA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb4t1KfH7UVvN2MSb5k0CRNb9-YcEspc3RYA&s",
+            "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT0rBTfirx5taIdMg2TfnSDV_lR91RhOdO9KWFoGkxNZ5DwuU00TGMWfIbM--HPpCcITIwO3rG6lZsywRE"
+        ]
     },
     {
         "name": "James Purefoy",
         "Birthday": "1964-06-03",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEmYcunhut4ETz1RqqI8u8r8mypKGN5naDg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOpNlN26Epfk-JnUYQNOgDK19Y1zyvXPucA&s",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStGTglGtmNLUZzu6xp4L31hSDJW0ZPjTimwy4XObkyOi6_PgJm"
+        ]
     },
     {
         "name": "Rachael Leigh Cook",
         "Birthday": "1979-10-04",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9B56YS9Z5YJDM7B-a5XXuqmIUjrMrXnKAtA&s",
+            "https://i.pinimg.com/originals/63/a7/97/63a797f1a72f5d1a1a41e372923393b8.jpg",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTspRGZwWV2ZwjaLNa5H1I9wxDOs6rYCGliV8r9QShgHLiKRM8y"
+        ]
     },
     {
         "name": "James Cameron",
         "Birthday": "1954-08-16",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://static.wixstatic.com/media/cce4b0_39aa2f5ef1b94049add5afa0f809f004~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/cce4b0_39aa2f5ef1b94049add5afa0f809f004~mv2.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9dxdrRPt4Iq8KrbtUw-G8A_KyB4xzKGBU8eEAGZbCoqz_-q7bip3Rs80PRi1wliJo5BM&usqp=CAU",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTNOgzXSfD_teVMyNa6He8-HK7V0L9fdpBgtuqmgz0VXw93JZ2RmV55VSndzsUFhITmNivVVlwejgjMLkk"
+        ]
     },
     {
         "name": "Jonah Hill",
         "Birthday": "1983-12-20",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiUvjrC_tPpx7twNDh-Uj3SM66HFaKdUzcSg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHDV4Scz_4Ct_RKV3x0zgRZsYhbNmuzOBdg&s",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTtof-rT8-n_E6PuoSfZ3LoyukBrsY7AV9v9e-zycxIVJ9wGXJ_7PNkSal6nneWTi5ggzV1vRTeNr3_-fw"
+        ]
     },
     {
         "name": "Kellan Lutz",
         "Birthday": "1985-03-15",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_VrOo3p2ztBluQSAK4SybhxSSxOMoVMx3A&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMG7KHv4L4Ld-TvLG9cXI8C89XGaMShEl3Zw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7h1gjcITgRFpfchmXfUS-uM3BBZrbNcHt0BlzeVPvSb-d9oE4"
+        ]
     },
     {
         "name": "Joseph Gordon-Levitt",
         "Birthday": "1981-02-17",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgPlneRL-ahkD9lMioSDth4v2Lw5RiLJf2yg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJKnyZoGsM3HdNnDmY_NyPF3DIiES5IX-xQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYJOBcRAPOAR7dcFhXmvlP-jS1UUKVUz3Mg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2Yhaw6KJCOh9j-H4vQ_m_x5fjd-GWDoueh16kpEdeMnYN23x"
+        ]
     },
     {
         "name": "Ian McKellen",
         "Birthday": "1939-05-25",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://i.pinimg.com/564x/e5/fa/3a/e5fa3ab353a760bb95d1a9350e839b14.jpg",
+            "https://external-preview.redd.it/F_6UBXnFTB9J_zDBVOYNcAVc7mXOT7pracQSEwyrD5E.jpg?auto=webp&s=cb1e43ae1989164bf6ae8339b4dfb4b7e79cf68b",
+            "https://i.pinimg.com/736x/7a/a6/73/7aa67348f018407792c69950ba0007f9.jpg",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTJBt1LIH_1z6d_5zFa8U0AgO5DOzx7eJDYEkQMwujuE1XrGgbet_Gy1XY9gou0qk7TfPL2FWU6ves8Vss"
+        ]
     },
     {
         "name": "Garrett Hedlund",
         "Birthday": "1984-09-03",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2kslm1g-nAjk821SwAHS6i5q2qxtsWBDjQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO0P68sdtj50H8YPTw9SuZHKXQ0nCfQaUJeg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKygTcOMxgLv6baadOC3DyGIiyG9X7QdyTFQ&s",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQDrLcFrhmIWneg7_aKF7PlLDBd0WxfykMv7ka01p-T7dpEGwRwUaHoKtfl2UdNW4PIvwdSe_TRchjjobM150K5JVAsWGMTgqnSLP9E6X7K9r1YJFVh4k37y8R31jxtdn4IrAyWWM__fg"
+        ]
     },
     {
         "name": "Amy Poehler",
         "Birthday": "1971-09-16",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPaWY6qdJXpSHB_vCU7lMLlmmA3uzaMi8V2Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcXxT8cYgw0aeSOg5lOVcBce0GeBaJ1RG8w&s",
+            "https://cupofjo.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-10.38.40-AM.png",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTevRMSxNXXZ2vC2bhXos3sjWIrwXzMt-gHnn22zK0whvAPNOfz"
+        ]
     },
     {
         "name": "Elijah Wood",
         "Birthday": "1981-01-28",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTa3ZxE6IiEfmh7uxgaF23ErBTT_iY-wF8HA&s",
+            "https://i.pinimg.com/564x/45/73/d8/4573d8381f21cd1bd13134c1eab93334.jpg",
+            "https://i.pinimg.com/564x/5f/b1/c2/5fb1c2413e8a1b854020ef920b4c306c.jpg",
+            "https://i.pinimg.com/originals/51/94/83/519483a24b30e288098e4e934e565aea.jpg",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSDjRNk_C0nB36qar2xb_j5Fz2namHC4yA_yZ481O4T7dqG9xhgftvRAQdfa1BHUu2J4RlqTE79Zw6cF-E"
+        ]
     },
     {
         "name": "Adam Baldwin",
         "Birthday": "1962-02-27",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtgZQ65GD46IXTElIh_ug2v2594X1x0zO6w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp93-T0J-ZvlKXav_WRs6KhyvunliQq0f5Kg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwJIGywQZSHmx6JLJHQk1POqVNXVJCRqu-Q&s",
+            "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/2207_v9_bc.jpg"
+        ]
     },
     {
         "name": "Eva Green",
         "Birthday": "1980-07-05",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://i.pinimg.com/originals/8e/b0/fa/8eb0fac1d4bc48eca438a9e746beb30f.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKdkY9BYLcFLleMkbDjEB4hznTDAmEm2kg1INOswrIRUsIOZoBdCgkC-pWYYv_rAdUEr4&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLmJPYMtrDc8Xxzsr1d7WE3ZkdZxVMu7r4w&s",
+            "https://i.pinimg.com/236x/a5/ca/0d/a5ca0d59a2bf79157341d1741c105fe2.jpg",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAQPyFerSLRnHsRHLWnJUbmrHpwg1R1DeO-MrzSosXe4zRHOBa"
+        ]
     },
     {
         "name": "Michelle Williams",
         "Birthday": "1980-09-09",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXonkGX6sF43gKORz4jOYWlAEaJHZzgS2mKQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dPHhJ0ECogwSWrVnlyb8nm0HKJeqGzjSmA&s",
+            "https://pyxis.nymag.com/v1/imgs/3b4/ea6/5a8b1bb57bd59575315c1ddc832274b41c-michelle-williams-dawsons-creek.2x.rsocial.w600.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yVmqxdEME8u5Lrrl-4xjaVLzJPujgZ4vmQ&s"
+        ]
     },
     {
         "name": "Lea Thompson",
         "Birthday": "1961-05-31",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://www.ciaranbrown.com/images/thompsonteenager140.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLws4a9FfTInuUuGBQipQPLfKTNthD2psIPGWp-nxwp0nHwpF8by_OYEHyU1fNXAAyAg&usqp=CAU",
+            "https://i.pinimg.com/736x/42/e4/9d/42e49d469e69842e58b9b00593414c74.jpg",
+            "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQENzi5UtTadBYsNCnQlHrigEoDDmtxfiluZWUcnXNRS055Q3nqTdYT6HxvyexH-mvt7Koj8UwrjwyjI_g"
+        ]
     },
     {
         "name": "Ivy Chen",
-        "Birthday": "1982-04-04",
+        "Birthday": "1982-11-12",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBIZKXvASg_PGc5xK70dnRF2APOF0YrsxRw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSct9c2sQxljmBBfWnI9KTWzH6TwlMk_1H8xg&s",
+            "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSl1L4qQw4P8zXygX5McKL6W3dpelH93HhZV0h5MMm1V-obt_YsDt9enLIF11EqfBRF-WH9133_AdtH7mc"
+        ]
     },
     {
         "name": "Kris Kristofferson",
         "Birthday": "1936-06-22",
+        "Died": "2024-09-28",
         "Gender": "Male",
-        "Pictures": []
-    },
-    {
-        "name": "ناهد جبر",
-        "Birthday": "",
-        "Gender": "Unknown",
-        "Pictures": []
-    },
-    {
-        "name": "Shannon Tweed",
-        "Birthday": "1967-03-10",
-        "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewmOw2oe0so8RMiA5sCeqRih0UgR97_mQEQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_keW8RIIrER9_dMEfrUKl9e5WQnZVVlrSQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVbYBAtcepgRn85MXbTChGUrkQzdBOAprMQ&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGp-y5UokYNUIdZoYfJ39qX_NqNnr_opJxfGKg_WxmwHl0bslA"
+        ]
     },
     {
         "name": "Hayley Atwell",
         "Birthday": "1982-04-05",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4THLCODsYUO-7_gpjHFQ7CxKRi46uFVsmQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYzJPUkD0UTMuvZ26xfSqSKD_LofG7MD8wA&s",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS1KdOVQm1dnTIBCCKjkhu-5Tk1FkrnBnsuZORrSz_8NWg87qjS4l1Ljg8PvUcICFaahV-tXz06glxmvnAgZqvy-ptsTFUNKy83w8gyeqpiqDYNGjSl0XmMeHTctg3dXynoCIPAG4qT"
+        ]
     },
     {
         "name": "Kelly Overton",
-        "Birthday": "1980-08-28",
+        "Birthday": "1978-08-28",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRef6NoFoqzr5pxdjGddjbgjpr3rPY7d6QDVg&s",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWznTiOyzikXvtVPdHKFc9WV0UFARiTNTOm1OJDjkOICciNYmu"
+        ]
     },
     {
         "name": "Emma Roberts",
         "Birthday": "1991-02-10",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPtkekcDvIz9SAAIoEUzb3lPN5KC72n8fiQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8UUzh0kqT3Me4Dco0OXdJGQ8MsdmLiCkr2Q&s",
+            "https://people.com/thmb/y-2UrcX8i5lRKyIlvEu2qOaQAVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(714x230:716x232)/Emma-Roberts-child-star-071824-tout-3605d528f95441588e30d4e6e45769f8.jpg",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt7nWK_1qz-cGGRD1RGTGsM1hQPQwojtH9NxajAIg5ZAVvbYl6"
+        ]
     },
     {
         "name": "Ken Duken",
         "Birthday": "1979-04-17",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-rvMH1m6wb95ytRvbhj7KCP0UXIU1gBefLw&s",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcR1FTIsmgtcZsHPMQ0YjJnRteLwfMRo2ZK6KFnv8dqOTnwKxB_dtMLY20qrQVv-rwmB5M9cws1LFSrEsVvwl-GbtgHmyADoXNvHZ6k77xUXxq0DZkDMaUrrBJbBovOnqghk6aorC9w4dQ"
+        ]
     },
     {
         "name": "Ray Stevenson",
         "Birthday": "1964-05-25",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://cms.showstudio.com/images/j_u8jg9ZMxq_g96DTfQx43Ei3TI=/129775/width-640/contributors_1707.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ray_Stevenson_March_18%2C_2014_%28cropped%29.jpg/1200px-Ray_Stevenson_March_18%2C_2014_%28cropped%29.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dMzzdDz8BdiNQIu5zmyGp0ADsmCEBjJ_XQ&s"
+        ]
     },
     {
         "name": "Tony Leung Ka-Fai",
         "Birthday": "1961-02-01",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ19zj-qtq7l9OTdn6dRK5JtDQlekaXgL2bjycyeBOm35jZPMcXxcZXRkiEksJQb6Wq9g&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lt_cA0tHiRcA69c7Z2Q4DTpgfLbZv5oi7g&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ5zKmwOG1yCbSPKdnu5hHlWqtWrCsMzPQWw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbmY9SfEUxHsE6RXbCSAGeLqR8hZ_xvYmfg&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAFfzfMaZ4qQIGFNNAR9j4905ftIYUIiIaUuyiWf8DT1dcUCij"
+        ]
     },
     {
         "name": "Gwyneth Paltrow",
         "Birthday": "1972-09-27",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0uWG5Tv2jq9Ual4WWxCid4V0O2oaEchi8QEzWCMg-8JvdW8fJ1vXhwpF5KT12qBwPjs&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9wh8SiqeD1VKMZIT5HlQoNNj4NGOk3_LHTOx32RMsUaXQV1TiWE8jG13QTHn1gNsZYA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlGIEqqBi38YaYaQl69dss6nSzeYbrwnJ45m0Q6CchjSjiwtommpmhpF25sc8LgazWGQ&usqp=CAU",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTriGjm3f4uXjWdK4Oe22aG67gzcNh9Kvv5yjVAc-2b1YS5c1EF6tcjKnfO1-KoDYDJ1M8v4tcBQcxKhd7WLMdV85utgpGDLpYkx5PWag"
+        ]
     },
     {
         "name": "Ray Liotta",
         "Birthday": "1954-12-18",
+        "Died": "2022-05-26",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://people.com/thmb/8a0P51KCW-yf1wXppxu8hx9n5AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(557x329:559x331)/ray-liotta-1-ffa93318e8104acda89071d571072656.jpg",
+            "https://imgix.ranker.com/user_node_img/50041/1000814658/original/young-ray-liotta-shirtless-smoking-cigarette-photo-u1",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkPuCdrESBdofQyszBRzd--JVyIC8d7mkfw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgJq_0lGfbXstU4iMzzrLPcTb63QhLwl0zaw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTEqJffiWtOmb95R1LwbJj3RLAZbyW3j4Cg&s",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQfoupdhIiC3e2Nn_PZQ-WfjJugICqp7lp5GajZ0RPQS791qCTq2Tvvhk95UyFI2k3_wZ-nRSNOlBByY_Y"
+        ]
     },
     {
         "name": "Christopher Lloyd",
         "Birthday": "1938-10-22",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Christopher_Lloyd_HS_yearbook.jpg/170px-Christopher_Lloyd_HS_yearbook.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIY-DYUc4nImioqyBDqZcyjKSMrIwzTV8cQg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhzwnllxT3j4WBmPSvKzq4Z-uiQdojT5UVA&s",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSmwhH_q9q0jg5aFT8NEcY-nM4cG91SlrsqBmTems-4bdblETQgAtC24xhIxw1bieWAfbnfxkkVB-XiIu-FsiicR9vwQTqE6QIbPowrw-IEMnp0vhaqwvClGbtY0v1iRjzsWhySnDkV3w"
+        ]
     },
     {
         "name": "Raquel Welch",
         "Birthday": "1940-09-05",
+        "Died": "2023-02-15",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3S4mjpRWFh_5H7PtxjtWPFJYguu77vYpWQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVCLxrk3v5x4s8gUZwRj7YD4gG_j1d_460Hg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxVkekz2SQn5YRhPmTOR5tp4SDSlhG7rc8R031hG-jH7IWZD0V6LpI6r0TRAaCx6jGXQjLDOWYY4HFgkwMj5wRRixm-JUJ47WJCpdL-Q",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI7V44BYYBEvhftIkOBZSIgzwGJARXS8PCwBqx5dGVh7tSlJ7O"
+        ]
     },
     {
         "name": "Rebecca Harrell Tickell",
-        "Birthday": "1977-11-25",
+        "Birthday": "1980-03-02",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6lFogwHLmuPUAD2HwRLlXmjUFmUrP8ylnQ&s",
+            "https://m.media-amazon.com/images/M/MV5BMTA1OWM5OGItYWNiYy00M2FhLWI5NmMtZTRjYWM0NWVhNDNmXkEyXkFqcGc@._V1_.jpg",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVh_GLGXiWsQj2aWK7BVK1he0d2-bCszrUfbpJpFO6zRzDM4EY"
+        ]
     },
     {
         "name": "Jodie Foster",
         "Birthday": "1962-11-19",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsy7vEGCXPG8y2ziyD2NHj4VPNn0j1DkskNw&s",
+            "https://i.pinimg.com/originals/9d/89/b1/9d89b13d2443ffdadd832a2d0dc42674.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjE14SH0TYysVeJmBAy6Y4am06euD1fKoYnQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5O-VBmaqZBGv4uXFZJ5ksOLqSKWSn3RK8lw&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS312xiVZns1NYBK_g8pmMlRhOuWQ39ekphJ6kcjFvbG1DEaX78"
+        ]
     },
     {
         "name": "Stellan Skarsgård",
         "Birthday": "1951-06-13",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://preview.redd.it/young-stellan-skarsgard-well-the-sons-got-it-from-somewhere-v0-n3saze5wk5ma1.jpg?auto=webp&s=aa17283c31e8b74db70e9738c8073179bcd59cff",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIdii_Ikv7I1P3izJA0e8u9vhe7JRrEbD85r5ZM_-yqfYXjCC"
+        ]
     },
     {
         "name": "Pam Grier",
         "Birthday": "1949-05-26",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://i.pinimg.com/originals/95/a2/e6/95a2e680445f9d66b8321b7922539d67.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANF5hIdRKce-2ho4dzJML62kdukCWxbVjSA&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkJInrU7YX-CuyaAt-X4X6-FSaNbXwRf-yZdKgl0WDVMQmdJBc"
+        ]
     },
     {
         "name": "Kim Cattrall",
         "Birthday": "1956-08-21",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://pbs.twimg.com/media/BsNxJ0eCUAA1L0_.jpg",
+            "https://i.pinimg.com/474x/dd/8a/35/dd8a35ae0246cda3d9b42d0382d01d87.jpg",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj_Em-dQpeigfCwVVA-6UL52VnVKSk9pMyTnFlS78qJun3avIe"
+        ]
     },
     {
         "name": "Victor Mature",
         "Birthday": "1913-01-29",
+        "Died": "1999-08-04",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://i.pinimg.com/originals/46/8f/43/468f435b762e323344982f0d1288db4f.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeIWJiQHB6-i0d5_AVMkbSEA-JW8-uuo1Aw&s",
+            "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSfBGDzdjlTguAOmi6_rlwBzfeKVoToUtJdf1x3LntogLU9122-atRroClhf9w-L2hTUMmu6JJ4RFv2cSkJ5kwqS4i_jIPNxA_ONDjLpdG7S6YihLwvLFM4BE1jdNS-RrrHq1lFZ5afog"
+        ]
     },
     {
         "name": "Alona Tal",
         "Birthday": "1983-10-29",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXk4toIwCUWnofC5hdW-peEBatxsoEQX-_w&s",
+            "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSCaYGZdOTFmpXWwN0EDDO6cKMtza6Oc6dKl-MpN7kKLWzWfHqg7eq3hAIr7RIq0S2ok6AwD-xpGPfUZSY"
+        ]
     },
     {
         "name": "Matt Damon",
         "Birthday": "1970-10-08",
         "Gender": "Male",
         "Pictures": [
-            "http://pics.blameitonthevoices.com/022009/01.matt_damon.jpg"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_OysjRHSVXUGYSvpyCkt-Gbc1hDGggwGgg&s",
+            "http://pics.blameitonthevoices.com/022009/01.matt_damon.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6vSVNPoakOiW4kgTBEKC1bGCGOxCzD1VZA&s",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQtZeA7HtVWINzrMVMHYr9RC_iMOCWzx4VhFFsckgjv9bROp2CV5vqMyr-PbFNlEdsr_U2WWAtA8g4sEM4"
         ]
     },
     {
         "name": "Aaron Paul",
         "Birthday": "1979-08-27",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoee15UaeXl7HVqIQSDt-Pq-ezQ8WqU8mjg&s",
+            "https://external-preview.redd.it/SLirifAV_qnVZtrO6cFkks1Mm-HDEbG8t6FYjtuf_Gw.png?width=640&crop=smart&auto=webp&s=f87fd5e339767a88816f8a153a0ddaedbc8ad7cf",
+            "https://i.pinimg.com/474x/ed/1c/b2/ed1cb275b270c92fed86d5e6c3c622ed.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aaron_Paul%2C_May_2009_%282%29_%28cropped%29.jpg/170px-Aaron_Paul%2C_May_2009_%282%29_%28cropped%29.jpg",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF19NQl6QBTVbHI5ztZWH-LJQ82AYpO6HbhIOg-By-LizXdcdPNKRNEAGARORXT67buz_cQktUTW-wgAM1elSG_utdoXp7aRQ-OHd7x48"
+        ]
     },
     {
         "name": "Stella Stevens",
         "Birthday": "1938-10-01",
+        "Died": "2023-02-17",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://cdn.prod.website-files.com/62fd045d322bf9c35fa7dff5/63f3e13261381d02a45a6dea_stella-stevens-1965-everett.jpeg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYChZiJ5Nm-2BUhKZixMM4N0MQ7pEK9AEbdQ&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoilrDcPRW5jm_rWwYONHj9nKVtv2zw_HdT7AxrQVAGGUs3YFt"
+        ]
     },
     {
         "name": "Charlton Heston",
         "Birthday": "1923-10-04",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqv7fVcorajZymFvk0iI81SKNF3IuFSfcZg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdzaAAVvab-RJdpAnSVuP6uWOj85ULzX57A&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgURNoq4skO9ft4mxW8klJk5yYoNF4LMw_4w&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1bT0zE1vNfpzwL2xlrXQF0-cnmElvEtV-L9-SJTiy8xLP9dFi",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHytAKd8FQC0KGKIdhngnO80GtHPgkqHeCqw&s",
+        ]
     },
     {
         "name": "Tommy Flanagan",
         "Birthday": "1965-07-03",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJVbj3wfjmwe2h_6p4WZB8ptTZLeJPQtaAQ&s",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQOs9of2dHacqD_U7tPwje3kPHnYnh4RB3ZeloPR1tLziiBcFCLUr0KZj6-KvqJysXNefPRWGnG7-QL9RA"
+        ]
     },
     {
         "name": "Jack Nicholson",
         "Birthday": "1937-04-22",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVObynAscnRy7du5ppXUlV6_2D-tZcaq49-Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfB9wEAzI9lsXx3Hazj-pRjascApQNjNaBpg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxFCBPBAALFDikMDuvkrnWxY930vCHACdog&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrAfM6AcOjmDBTUbClikZ2wYopZ1esdLLkRA&s",
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrQuoDsoTyqomaJbXLmg_TcT-LwCoeg6GlgD5cG7l-TRwkT-FC"
+        ]
     },
     {
         "name": "Nicola Peltz",
         "Birthday": "1995-01-09",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIUR8e_lsJTGz2AckRc9OEHEfqy_OikPyDg&s",
+            "https://c8.alamy.com/comp/D0JMA0/nicola-peltz-the-8th-annual-teen-vogue-young-hollywood-party-held-D0JMA0.jpg",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRWdv9jGwqgRubcNxYijgASofARLriEnFIPg8vrHYMHCImQEWeNvtde_t1Wd01GQX0s2legDroA-5y8sWc"
+        ]
     },
     {
         "name": "Katey Sagal",
         "Birthday": "1954-01-19",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm2TQhLg0cp8_Zmki8P-gxlHzCNANMQ_ukQ&s",
+            "https://i.redd.it/tuldk24psac61.jpg",
+            "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRlK8EyjTw8lgkpCWnnx8-7mzCcwZX0DCpi1ToDNnfM2glTnsTQk5FouZdvwAqZ6HzZk17SJSMEKGZGQjs"
+        ]
     },
     {
         "name": "Julie Andrews",
         "Birthday": "1935-10-01",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStpsbI6iOP9BQ9R2Mb9BEJTWfsNzY40x303A&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4ofyk0W6lfEdOiMfXvnS3SW-c9r3GRnSg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7irDCCA_yDuHLHtF6TYOZ7TMd-2mZfa3sw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfTuh0sKIBdmsttO860eovOTj9uiBUg1GdA&s",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwXlbMQ0G9f9yMwPQLrZmUvFdohB4yvGqPgtmCTLHmd-iZ-AH0"
+        ]
     },
     {
         "name": "Luis Guzmán",
         "Birthday": "1956-08-28",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeImzjwoGEB_s_NwTSSi53B7S-2qxgjfn_w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8LZ04Orr1AhlplEBh4Hhb2TllxMQMk1YOWIOP_n4MWAagnSf"
+        ]
     },
     {
         "name": "Laura Harring",
         "Birthday": "1964-03-03",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMT2Yz-ycCiJ7rUy7DSCQoVMNF4zOUCTRZ_A&s",
+            "https://images.squarespace-cdn.com/content/v1/57084872b09f9535e276e79d/1460566751525-JGSBDE75YEVHL134B45B/LH_06_port_misc02.jpg?format=original",
+            "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTDkH-TsQV9OuldrcXkay588WIVTGALQbD1Vq2FM7bMQ0vtsQiGKcl3n8dDiiAphSl1uhgUGDiImvKRF-Q"
+        ]
     },
     {
         "name": "Miles Teller",
         "Birthday": "1987-02-20",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzqvDckz2VXZYMh27YMUEnpM-o-jfZzMF4Q&s",
+            "https://i.pinimg.com/originals/57/2a/fe/572afe314199c26f7ed8d05078044bb4.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdUDlVJmR1eT1LYsAWzu0DKXCg44jE_zxpw&s",
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl1G2BPneBvBYypaa_mQSkyWbSceKD10oattZ-jZIexZqezWNf"
+        ]
     },
     {
         "name": "Beau Bridges",
         "Birthday": "1941-12-09",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4DL2GSyUbhbOVJtyRtA8sc_yKyamHIYj9eg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnrv0yx6IYOHkHtA2UlmD6AN5mOVFkRQTyw&s",
+            "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTdeD_cRq5TRkcqmpohN7hM-zWTwEYxyLHcaHCZGMw2ZXG68LRJm03NAQ4B5ZmHv8hqC2WMv0vOQmGfag0dnwPiXg5fkyZKurKYFT356ApO09AU6RV32D2XgHvlBawcierhoytrbefX"
+        ]
     },
     {
         "name": "Ali Larter",
         "Birthday": "1976-02-28",
         "Gender": "Female",
-        "Pictures": []
+        "Pictures": [
+            "https://media.glamour.com/photos/56958f95085ae0a85037786d/master/w_1600%2Cc_limit/fashion-2013-08-ali-larter-high-school-photo-main.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShswfSriTwoQI8TGW9qBHD9jbbCeOVRGOSng&s",
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlInXLxSDcbO89MoP_jJPMcYWcNUPaCtIrsmXzrfcwOY1BEyASvj7PiFk17MGLnSAcvatKakcE2U8IXzufrjH3co84vpWZIkRFNSrTx0Y"
+        ]
     },
     {
         "name": "James Spader",
         "Birthday": "1959-02-07",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://preview.redd.it/mk4ikcor3bx71.jpg?auto=webp&s=8e379ba5494e8573de92c5b21333ff936e5c179a",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB6LGBlCk4rmC249nLaP8CEJWFAUz3E9-BSg&s",
+            "https://cdn.britannica.com/78/224978-050-F42FE93B/James-Spader-2015.jpg"
+        ]
     },
     {
         "name": "Jon Bernthal",
         "Birthday": "1976-09-20",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://i.pinimg.com/474x/92/13/16/921316498b5097ed52d0956e2aceb62d.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP0jeN3MAZ87Q6f5e0B-D5QEgKXf4EPB3Qg&s"
+        ]
     },
     {
         "name": "Logan Lerman",
         "Birthday": "1992-01-19",
         "Gender": "Male",
-        "Pictures": []
+        "Pictures": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RltZxCj944Z9NKIpUVrWyofPvpAWeOy0Rg&s",
+            "https://www.j-14.com/wp-content/uploads/2022/01/Logan-lermna01.jpg?fit=800%2C1196&quality=86&strip=all",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJdkf6zWMNRokpd23nLZSAn7lDjVGTEmlP5NgyWAjhyOIOGfxfQG7VslYumny2kZDY8oMGb8IL3yxf4xNzf01r3WdkpnJeP_ve8geR_jQ"
+        ]
     },
     {
         "name": "Sacha Baron Cohen",
