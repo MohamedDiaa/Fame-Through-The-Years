@@ -23,7 +23,7 @@ public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options
              p.Property(e => e.Id).ValueGeneratedOnAdd();
 
             
-             p.HasMany(p => p.pictures)
+             p.HasMany(p => p.Pictures)
              .WithOne(p => p.Person)
              .HasForeignKey( p => p.PersonId);
 

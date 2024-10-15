@@ -29,9 +29,9 @@
             <dd class="col-sm-10">@person.CountryId</dd>
             -->
         </dl>
-        @if(person.pictures.Count > 0) {
+        @if(person.Pictures.Count > 0) {
           <div style="display: flex;flex-direction: column; max-width: 500px;">
-           @foreach(var picture in person.pictures) 
+           @foreach(var picture in person.Pictures) 
             {
                 <img src="@picture.Link">
                 <br>
@@ -58,7 +58,7 @@
         .OrderBy(product => Guid.NewGuid())
         .Skip(skipper)  
         .Take(1)  
-        .Include(p => p.pictures)
+        .Include(p => p.Pictures)
         .ToList().First();  
       
         if (person is null)

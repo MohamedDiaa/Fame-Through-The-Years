@@ -13,5 +13,5 @@ public class Person
     public int CountryId {get; set;}
     public Country Country {get; set;}
 
-    public ICollection<Picture> pictures {get; set;}
+    public ICollection<Picture> Pictures {get; set;}
 }

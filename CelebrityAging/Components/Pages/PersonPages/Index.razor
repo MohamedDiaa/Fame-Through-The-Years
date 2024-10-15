@@ -50,9 +50,9 @@
         get {
             if(string.IsNullOrEmpty(PersonName)) {
         
-                return context.Person;
+                return context.Person.Include(p => p.Pictures);
             } else {
-                return context.Person.Where( p => p.Name.Contains(PersonName));
+                return context.Person.Include(p => p.Pictures).Where( p => p.Name.Contains(PersonName));
             }
         }
         }

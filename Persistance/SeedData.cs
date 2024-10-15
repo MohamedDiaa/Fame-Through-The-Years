@@ -43,7 +43,7 @@ namespace Persistance
                             Name = p.Name,
                             BirthDate = p.Birthday,
                             Gender = p.Gender,
-                            pictures = p.GetPictures(),
+                            Pictures = p.GetPictures(),
                             CountryId = 241
                         });
 
