@@ -1,21 +1,17 @@
-Running project
-install dotnet 8.0 or later 
+# Fame Through the Years
 
-cd CelebrityAging
+Showing Celebrity pictures from childhood to their latest
 
-dotnet ef migrations add init --project ../Persistance            
+<img width="300" alt="Screenshot 2025-01-30 at 18 33 28" src="https://github.com/user-attachments/assets/813b1143-cc08-4b76-bb3b-551bfef6bdd4" />
 
-dotnet ef database update --project ../Persistance
-
-dotnet clean
-
-dotnet build
-
-dotnet run
-
-check the url on the browser
-http://localhost:5298
-or
-https://localhost:7076
+# Running project
+- install dotnet 8.0 or later
+- use terminal and enter following commands
+- cd CelebrityAging
+- dotnet ef migrations add init --project ../Persistance            
+- dotnet ef database update --project ../Persistance
+- dotnet clean
+- dotnet build
+- dotnet run
 
 [![.NET](https://github.com/MohamedDiaa/Fame-Through-The-Years/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MohamedDiaa/Fame-Through-The-Years/actions/workflows/dotnet.yml)
