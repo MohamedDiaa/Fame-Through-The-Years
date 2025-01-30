@@ -33,7 +33,7 @@
           <div style="display: flex;flex-direction: column; max-width: 500px;">
            @foreach(var picture in person.Pictures) 
             {
-                <img src="@picture.Link">
+                <img  style="width: 100%; height: 100%; object-fit: cover;border-radius: 10px" src="@picture.Link">
                 <br>
             }
           </div> 
