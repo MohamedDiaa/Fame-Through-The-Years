@@ -9,38 +9,58 @@
 <PageTitle>Home</PageTitle>
 
 <div>
- 
+
     @if (person is null)
     {
         <p><em>Loading...</em></p>
     }
-    else {
-    <h2>@person.Name</h2>
-    <a href="" @onclick="Randomize">Get Random </a> 
+    else
+    {
+        <a href="" @onclick="Randomize">Get Random </a>
 
-    <hr />
-        <dl class="row">
-            <dt class="col-sm-2">Name</dt>
-            <dd class="col-sm-10">@person.Name</dd>
-            <dt class="col-sm-2">Born</dt>
-            <dd class="col-sm-10">@person.BirthDate</dd>
-            <!--
-            <dt class="col-sm-2">CountryId</dt>
-            <dd class="col-sm-10">@person.CountryId</dd>
-            -->
-        </dl>
-        @if(person.Pictures.Count > 0) {
-          <div style="display: flex;flex-direction: column; max-width: 500px;">
-           @foreach(var picture in person.Pictures) 
-            {
-                <img  style="width: 100%; height: 100%; object-fit: cover;border-radius: 10px" src="@picture.Link">
-                <br>
-            }
-          </div> 
+        <div style="
+         width: fit-content;
+            box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4);
+            border-radius: 10px;
+            margin-bottom: 30px;
+            ">
+            <div style="padding: 10px">
+            <h2>@person.Name</h2>
+
+            <dl class="row">
+                <dt class="col-sm-2">Name</dt>
+                <dd class="col-sm-10">@person.Name</dd>
+                <dt class="col-sm-2">Born</dt>
+                <dd class="col-sm-10">@person.BirthDate</dd>
+                <!--
+                <dt class="col-sm-2">CountryId</dt>
+                <dd class="col-sm-10">@person.CountryId</dd>
+                -->
+            </dl>
+            </div>
+        </div>
+
+        @if (person.Pictures.Count > 0)
+        {
+            <div style="
+            display: grid;
+            grid-template-columns: 300px 300px 300px;  
+            gap: 10px">
+                @foreach (var picture in person.Pictures)
+                {
+                    <img style="width: 100%;
+                     height: 100%; 
+                     object-fit: cover;
+                     border-radius: 10px;
+                     box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4)" src="@picture.Link">
+                    <br>
+                }
+            </div>
         }
-      else {
-        <div> Pictures will be added soon </div>
-      }
+        else
+        {
+            <div> Pictures will be added soon</div>
+        }
     }
 </div>
 
@@ -49,26 +69,27 @@
 
     protected override async Task OnInitializedAsync()
     {
-    using var context = DbFactory.CreateDbContext();
-         Random rand = new Random();  
-         int skipper = rand.Next(0, context.Person.Count());  
-  
-        person = context  
-        .Person  
-        .OrderBy(product => Guid.NewGuid())
-        .Skip(skipper)  
-        .Take(1)  
-        .Include(p => p.Pictures)
-        .ToList().First();  
-      
+        using var context = DbFactory.CreateDbContext();
+        Random rand = new Random();
+        int skipper = rand.Next(0, context.Person.Count());
+
+        person = context
+            .Person
+            .OrderBy(product => Guid.NewGuid())
+            .Skip(skipper)
+            .Take(1)
+            .Include(p => p.Pictures)
+            .ToList().First();
+
         if (person is null)
         {
             NavigationManager.NavigateTo("notfound");
-        }    }
-
-    public void Randomize() {
-    
-         NavigationManager.NavigateTo("/", true);
-
+        }
     }
+
+    public void Randomize()
+    {
+        NavigationManager.NavigateTo("/", true);
+    }
+
 }
